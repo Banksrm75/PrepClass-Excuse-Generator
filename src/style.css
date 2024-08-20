@@ -1,6 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 #excuse {
   font-family: Arial;
-  margin-top: 50%;
   font-size: 280%;
+}
+.Box {
+  background: white;
+  position: relative;
+  height: 50%;
+  width: 100%;
+  margin-top: 25%;
 }
